@@ -1,11 +1,9 @@
 body {
   background-color: lightblue;
 }
-<style>
-    h1 {
-      color: navy;
-      border: 1px solid black;
-      text-align: center;
-      background-color: white;
-    }
-</style>
+h1 {
+  color: navy;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+}
