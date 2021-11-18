@@ -1,13 +1,14 @@
 body {
   background-color: lightblue;
 }
-
-h1 {
-  color: navy;
-  border: 1px solid black;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-right: 200px;
-  margin-left: 80px;
-  background-color: white;
-}
+<style>
+    h1 {
+      color: navy;
+      border: 1px solid black;
+      margin-top: 50px;
+      margin-bottom: 25px;
+      margin-right: 200px;
+      margin-left: 80px;
+      background-color: white;
+    }
+</style>
